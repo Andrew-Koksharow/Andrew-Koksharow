@@ -11,6 +11,12 @@ Learning JavaScript
 <img src='https://www.codewars.com/users/Andrew-Koksharow/badges/small'/>
 
 
+https://andrew-koksharow.github.io/calc/
+
+https://andrew-koksharow.github.io/SNReact/
+
+
+
 https://www.freecodecamp.org/certification/andrew_koksharow/javascript-algorithms-and-data-structures
 
 
